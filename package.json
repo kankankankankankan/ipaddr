@@ -19,9 +19,9 @@
         "react-ga": "^3.3.0",
         "swr": "^0.3.11",
         "tailwindcss": "^2.0.2",
-        "sharp": "^0.33.0",
-        "prop-types": "^15.6.0",
-        "eslint": "^6.0.0"
+        "sharp": "^0.33.1",
+        "prop-types": "^15.7.2",
+        "eslint": "^7.32.0"
     },
     "devDependencies": {
         "@types/ip": "^1.1.0",
