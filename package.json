@@ -19,7 +19,7 @@
         "react-ga": "^3.3.0",
         "swr": "^0.3.11",
         "tailwindcss": "^2.0.2",
-        "sharp": "^0.33.1"
+        "sharp": "^0.33.0"
     },
     "devDependencies": {
         "@types/ip": "^1.1.0",
